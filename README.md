@@ -23,18 +23,32 @@ This tool discovers and enriches Shopify stores, filtering for:
 ```bash
 # Install dependencies
 pip install -r requirements.txt
-playwright install chromium
 
 # Configure environment
 cp .env.example .env
 # Edit .env with your Uber Direct credentials
 
-# Run discovery
-python src/main.py discover --limit 500
+# Run async discovery (10x faster, recommended)
+python src/main_async.py discover --github --limit 1000 --concurrent 20
+
+# Or use sync version
+python src/main.py discover --csv data.csv --limit 500
 
 # Export results
-python src/main.py export --format csv --output leads.csv
+python src/main.py export --output leads.csv --plus-only --usa-only
 ```
+
+## Performance
+
+**Async mode (recommended):**
+- ~12,000 stores/hour
+- 100 stores in 28 seconds
+- Concurrent processing (default: 20 parallel requests)
+
+**Sync mode:**
+- ~1,300 stores/hour
+- 88 stores in 4 minutes
+- Sequential processing
 
 ## Architecture
 
