@@ -1,0 +1,58 @@
+{
+  "shopifyacademy.com": {
+    "name": "Business courses.Learn from proven experts",
+    "source": "https://www.shopify.com/examples"
+  },
+  "shopifystatus.com": {
+    "name": "Service Status",
+    "source": "https://www.shopify.com/examples"
+  },
+  "devdegree.ca": {
+    "name": "Dev Degree",
+    "source": "https://www.shopify.com/examples"
+  },
+  "shop.app": {
+    "name": "Shop",
+    "source": "https://www.shopify.com/examples"
+  },
+  "operationhope.org": {
+    "name": "Build Black",
+    "source": "https://www.shopify.com/examples"
+  },
+  "tiktok.com": {
+    "location_mention": "USA",
+    "source": "https://www.shopify.com/examples"
+  },
+  "pinterest.com": {
+    "location_mention": "USA",
+    "source": "https://www.shopify.com/examples"
+  },
+  "mollyjogger.com": {
+    "name": "MollyJogger",
+    "source": "https://www.shopify.com/examples"
+  },
+  "denydesigns.com": {
+    "name": "DENY Designs",
+    "source": "https://www.shopify.com/examples"
+  },
+  "dowsedesign.co.uk": {
+    "name": "Dowse Design",
+    "source": "https://www.shopify.com/examples"
+  },
+  "missboon.ca": {
+    "name": "Miss Boon",
+    "source": "https://www.shopify.com/examples"
+  },
+  "the-citizenry.com": {
+    "name": "The Citizenry",
+    "source": "https://www.shopify.com/examples"
+  },
+  "shophorne.com": {
+    "name": "Horne",
+    "source": "https://www.shopify.com/examples"
+  },
+  "polyandbark.com": {
+    "name": "Poly & Bark",
+    "source": "https://www.shopify.com/examples"
+  }
+}

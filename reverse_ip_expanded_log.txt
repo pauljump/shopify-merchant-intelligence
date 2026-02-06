@@ -1,0 +1,196 @@
+📄 Loading IPs from: data/shopify_ips/all_ips.txt
+✅ Loaded 80 IPs
+
+🔎 Checking 80 IPs...
+
+[1/80] IP: 185.146.173.0
+  ✅ Found 1 domains
+[2/80] IP: 185.146.173.10
+  ✅ Found 1 domains
+[3/80] IP: 185.146.173.100
+  ✅ Found 1 domains
+[4/80] IP: 185.146.173.110
+  ✅ Found 1 domains
+[5/80] IP: 185.146.173.120
+  ✅ Found 1 domains
+[6/80] IP: 185.146.173.130
+  ✅ Found 1 domains
+[7/80] IP: 185.146.173.140
+  ✅ Found 1 domains
+[8/80] IP: 185.146.173.150
+  ✅ Found 1 domains
+[9/80] IP: 185.146.173.160
+  ✅ Found 1 domains
+[10/80] IP: 185.146.173.170
+  ✅ Found 1 domains
+[11/80] IP: 185.146.173.180
+  ✅ Found 1 domains
+[12/80] IP: 185.146.173.190
+  ✅ Found 1 domains
+[13/80] IP: 185.146.173.20
+  ✅ Found 89 domains
+[14/80] IP: 185.146.173.200
+  ✅ Found 1 domains
+[15/80] IP: 185.146.173.210
+  ✅ Found 1 domains
+[16/80] IP: 185.146.173.220
+  ✅ Found 1 domains
+[17/80] IP: 185.146.173.230
+  ✅ Found 1 domains
+[18/80] IP: 185.146.173.240
+  ✅ Found 1 domains
+[19/80] IP: 185.146.173.250
+  ✅ Found 1 domains
+[20/80] IP: 185.146.173.30
+  ✅ Found 1 domains
+[21/80] IP: 185.146.173.40
+  ✅ Found 1 domains
+[22/80] IP: 185.146.173.50
+  ✅ Found 1 domains
+[23/80] IP: 185.146.173.60
+  ✅ Found 1 domains
+[24/80] IP: 185.146.173.70
+  ✅ Found 1 domains
+[25/80] IP: 185.146.173.80
+  ✅ Found 1 domains
+[26/80] IP: 185.146.173.90
+  ✅ Found 1 domains
+[27/80] IP: 23.227.38.0
+  ✅ Found 9 domains
+[28/80] IP: 23.227.38.10
+  ✅ Found 5 domains
+[29/80] IP: 23.227.38.100
+  ✅ Found 7 domains
+[30/80] IP: 23.227.38.110
+  ✅ Found 1 domains
+[31/80] IP: 23.227.38.120
+  ✅ Found 1 domains
+[32/80] IP: 23.227.38.130
+  ✅ Found 1 domains
+[33/80] IP: 23.227.38.140
+  ✅ Found 1 domains
+[34/80] IP: 23.227.38.150
+  ✅ Found 1 domains
+[35/80] IP: 23.227.38.160
+  ✅ Found 1 domains
+[36/80] IP: 23.227.38.170
+  ✅ Found 13 domains
+[37/80] IP: 23.227.38.180
+  ✅ Found 1 domains
+[38/80] IP: 23.227.38.190
+  ✅ Found 1 domains
+[39/80] IP: 23.227.38.20
+  ✅ Found 6 domains
+[40/80] IP: 23.227.38.200
+  ✅ Found 1 domains
+[41/80] IP: 23.227.38.210
+  ✅ Found 1 domains
+[42/80] IP: 23.227.38.220
+  ✅ Found 1 domains
+[43/80] IP: 23.227.38.230
+    RapidDNS error: HTTPSConnectionPool(host='rapiddns.io', port=443): Read timed out. (read timeout=15)
+  ✅ Found 1 domains
+[44/80] IP: 23.227.38.240
+  ✅ Found 1 domains
+[45/80] IP: 23.227.38.250
+  ✅ Found 10 domains
+[46/80] IP: 23.227.38.30
+  ✅ Found 8 domains
+[47/80] IP: 23.227.38.32
+  ✅ Found 100 domains
+[48/80] IP: 23.227.38.33
+  ✅ Found 66 domains
+[49/80] IP: 23.227.38.40
+  ✅ Found 1 domains
+[50/80] IP: 23.227.38.50
+  ✅ Found 5 domains
+[51/80] IP: 23.227.38.60
+  ✅ Found 20 domains
+[52/80] IP: 23.227.38.70
+  ✅ Found 100 domains
+[53/80] IP: 23.227.38.80
+  ✅ Found 3 domains
+[54/80] IP: 23.227.38.90
+  ✅ Found 4 domains
+[55/80] IP: 23.227.39.0
+  ✅ Found 1 domains
+[56/80] IP: 23.227.39.10
+  ✅ Found 1 domains
+[57/80] IP: 23.227.39.100
+  ✅ Found 1 domains
+[58/80] IP: 23.227.39.110
+  ✅ Found 1 domains
+[59/80] IP: 23.227.39.120
+  ✅ Found 1 domains
+[60/80] IP: 23.227.39.130
+  ✅ Found 1 domains
+[61/80] IP: 23.227.39.140
+  ✅ Found 1 domains
+[62/80] IP: 23.227.39.150
+  ✅ Found 1 domains
+[63/80] IP: 23.227.39.160
+  ✅ Found 1 domains
+[64/80] IP: 23.227.39.170
+  ✅ Found 1 domains
+[65/80] IP: 23.227.39.180
+  ✅ Found 1 domains
+[66/80] IP: 23.227.39.190
+  ✅ Found 1 domains
+[67/80] IP: 23.227.39.20
+  ✅ Found 3 domains
+[68/80] IP: 23.227.39.200
+  ✅ Found 4 domains
+[69/80] IP: 23.227.39.210
+  ✅ Found 1 domains
+[70/80] IP: 23.227.39.220
+  ✅ Found 1 domains
+[71/80] IP: 23.227.39.230
+  ✅ Found 1 domains
+[72/80] IP: 23.227.39.240
+  ✅ Found 1 domains
+[73/80] IP: 23.227.39.250
+  ✅ Found 1 domains
+[74/80] IP: 23.227.39.30
+  ✅ Found 1 domains
+[75/80] IP: 23.227.39.40
+  ✅ Found 1 domains
+[76/80] IP: 23.227.39.50
+  ✅ Found 3 domains
+[77/80] IP: 23.227.39.60
+  ✅ Found 2 domains
+[78/80] IP: 23.227.39.70
+  ✅ Found 1 domains
+[79/80] IP: 23.227.39.80
+  ✅ Found 1 domains
+[80/80] IP: 23.227.39.90
+  ✅ Found 1 domains
+
+============================================================
+🎯 Reverse IP Lookup Complete!
+============================================================
+🌐 Total unique domains: 448
+============================================================
+
+💾 Saved to data/reverse_ip/domains.txt
+
+📊 Sample results:
+  - shopifynetwork.com
+  - elfierotors.fr
+  - houseshoesbest.com
+  - restoringcrownz.com
+  - hush-up-and-hustle.wholesale.shopifyapps.com
+  - jasonhyde.com
+  - myfaceonsox.com
+  - easywine.fr
+  - mika-yoga-wear.wholesale.shopifyapps.com
+  - development.shopify.io
+  - well-juicery-2.wholesale.shopifyapps.com
+  - shopcelvo.com
+  - m.shuzw.com
+  - ishkaworld.com
+  - karashop.it
+  - ndulgeyourself.com
+  - skinimin.store
+  - profitindustry.com
+  - auraluxs.com
+  - theme-kit-access.shopifyapps.com

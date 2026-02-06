@@ -1,0 +1,8 @@
+AS62679 (Shopify-owned):
+  23.227.41.0/24
+  23.227.40.0/24
+
+Shopify NetRange: 23.227.32.0/19
+  Contains 8192 IPs
+
+Sampled 102 IPs from AS62679 blocks

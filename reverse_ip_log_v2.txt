@@ -1,0 +1,45 @@
+🔍 Reverse IP Lookup Discovery...
+📊 Finding Shopify infrastructure IPs\n
+  🌐 shopify.com → 23.227.38.33
+  🌐 myshopify.com → 23.227.38.32
+  🌐 shop.app → 185.146.173.20
+  ⚠️  shopifycdn.net: [Errno 8] nodename nor servname provided, or not known
+  🌐 cdn.shopify.com → 23.227.39.200
+\n🔎 Checking common Shopify subdomains...
+✅ Found 4 Shopify infrastructure IPs\n
+🔎 Checking up to 4 IPs...\n
+[1/4] IP: 23.227.38.33
+  ✅ Found 66 domains
+[2/4] IP: 185.146.173.20
+  ✅ Found 89 domains
+[3/4] IP: 23.227.38.32
+  ✅ Found 99 domains
+[4/4] IP: 23.227.39.200
+  ✅ Found 4 domains
+\n============================================================
+🎯 Reverse IP Lookup Complete!
+============================================================
+🌐 Total unique domains: 258
+============================================================\n
+💾 Saved to data/reverse_ip/domains.txt
+\n📊 Sample results:
+  - nanis.us
+  - 1sexyangel.com
+  - khalifakush.wholesale.shopifyapps.com
+  - ogfamily.com
+  - oozefoundation.com
+  - nastjajewellery.com
+  - dabblicious.com
+  - elithair-shop.com
+  - wyze.com
+  - lestissees.com
+  - hibble.wholesale.shopifyapps.com
+  - wolfgangusa-wholesale.wholesale.shopifyapps.com
+  - firman-power-equipment.wholesale.shopifyapps.com
+  - murata.ca
+  - nimblemobility.org
+  - goto-academy.nl
+  - lorocrisps.com
+  - thesenfete.fr
+  - www.5.bear-komplex.wholesale.shopifyapps.com
+  - shops.myshopify.com.cdn.cloudflare.net

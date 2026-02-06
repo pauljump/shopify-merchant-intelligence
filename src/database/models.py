@@ -41,6 +41,7 @@ class ShopifyStore(Base):
     # Detection flags
     is_shopify = Column(Boolean, default=False, index=True)
     is_shopify_plus = Column(Boolean, default=False, index=True)
+    plus_signals = Column(Text)  # Comma-separated list of Plus signals
 
     # Uber Direct
     is_uber_serviceable = Column(Boolean, default=None, index=True)
@@ -54,6 +55,7 @@ class ShopifyStore(Base):
     discovered_at = Column(DateTime, default=datetime.utcnow)
     scraped_at = Column(DateTime)
     last_updated = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+    discovery_source = Column(String(100))  # e.g., 'csv', 'social_media', 'github'
 
     # Raw data
     raw_data = Column(Text)  # JSON string of all scraped data

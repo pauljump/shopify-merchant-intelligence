@@ -1,14 +1,14 @@
 {
   "ideaId": "IDEA-182",
-  "title": "concepts",
-  "status": "Shopify Merchant Intelligence",
+  "title": "Shopify Merchant Intelligence",
+  "status": "concept",
   "readiness": 0,
   "github": "https://github.com/pauljump/shopify-merchant-intelligence",
   "directory": "shopify-merchant-intelligence",
   "relatedIdeas": [],
   "lastSession": "2026-02-05T19:42:44Z",
-  "technology": [],
-  "domain": [],
-  "nextMilestone": "Start conversation to define project",
+  "technology": ["python", "scrapy", "postgresql", "elasticsearch", "react"],
+  "domain": ["b2b-saas", "ecommerce", "data-platform", "web-scraping"],
+  "nextMilestone": "Build proof of concept scraper for 1,000 stores",
   "template_version": 1
 }

@@ -1,0 +1,27 @@
+🔍 Scraping Shopify's Own Showcase Pages...
+📊 Checking 4 showcase URLs
+
+🌐 Scraping: https://www.shopify.com/plus/customers
+  ✅ Found 7 stores
+🌐 Scraping: https://www.shopify.com/examples
+  ✅ Found 14 stores
+🌐 Scraping: https://www.shopify.com/blog/successful-ecommerce-stores
+  ⚠️  HTTP 404
+🌐 Scraping: https://www.shopify.com/blog/best-shopify-stores
+  ⚠️  HTTP 404
+
+============================================================
+🎯 Showcase Scraping Complete!
+============================================================
+🌐 Total stores found: 14
+============================================================
+
+💾 Saved to data/shopify_showcase/
+
+📊 Statistics:
+Total stores: 14
+USA mentions: 2
+
+🇺🇸 USA Stores:
+  - tiktok.com: Unknown (USA)
+  - pinterest.com: Unknown (USA)

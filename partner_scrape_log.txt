@@ -1,0 +1,479 @@
+2026-02-05 23:34:50,915 - INFO - ================================================================================
+2026-02-05 23:34:50,915 - INFO - SHOPIFY PARTNER DIRECTORY SCRAPER
+2026-02-05 23:34:50,915 - INFO - ================================================================================
+2026-02-05 23:34:50,915 - INFO - Starting comprehensive partner directory scrape...
+2026-02-05 23:34:50,915 - INFO - Scraping Partner Showcases...
+2026-02-05 23:34:50,915 - INFO - Scraping app developer site: https://www.klaviyo.com/customers
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: help.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: help.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: academy.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: community.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: connect.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: marketplace.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,469 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: help.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: academy.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: community.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: connect.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: help.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: investors.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: help.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: academy.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: community.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: investors.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: developers.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: help.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: academy.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: community.klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:51,470 - INFO - Found store from showcases: klaviyo.com
+2026-02-05 23:34:54,472 - INFO - Scraping app developer site: https://www.yotpo.com/customers/
+2026-02-05 23:34:56,312 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,312 - INFO - Found store from showcases: commerce-gpt.yotpo.com
+2026-02-05 23:34:56,312 - INFO - Found store from showcases: support.yotpo.com
+2026-02-05 23:34:56,312 - INFO - Found store from showcases: login.yotpo.com
+2026-02-05 23:34:56,312 - INFO - Found store from showcases: support.yotpo.com
+2026-02-05 23:34:56,312 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,312 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: womeninecomm.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yap.yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: support.yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: core-api.yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: status.yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:56,313 - INFO - Found store from showcases: yotpo.com
+2026-02-05 23:34:59,318 - INFO - Scraping app developer site: https://www.recharge.com/customers
+2026-02-05 23:34:59,896 - WARNING - Page not found (404): https://www.recharge.com/customers
+2026-02-05 23:34:59,896 - INFO - Scraping app developer site: https://www.gorgias.com/customers
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: agencies.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: dash.partnerstack.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: agencies.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: dash.partnerstack.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: community.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: portal.productboard.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: academy.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: community.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: portal.productboard.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,381 - INFO - Found store from showcases: community.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: community.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: drive.google.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: updates.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: developers.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: status.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: portal.productboard.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: agencies.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: dash.partnerstack.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: updates.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: developers.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: status.gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: portal.productboard.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,382 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: docs.gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: agencies.gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: dash.partnerstack.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:00,383 - INFO - Found store from showcases: gorgias.com
+2026-02-05 23:35:03,389 - INFO - Scraping app developer site: https://www.privy.com/customers
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: dashboard.privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: dashboard.privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: dashboard.privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: dashboard.privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: help.privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: privy.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: apply.workable.com
+2026-02-05 23:35:04,731 - INFO - Found store from showcases: support@privy.com
+2026-02-05 23:35:07,737 - INFO - Scraping app developer site: https://www.justuno.com/customers
+2026-02-05 23:35:08,521 - WARNING - Page not found (404): https://www.justuno.com/customers
+2026-02-05 23:35:08,521 - INFO - Scraping app developer site: https://www.omnisend.com/customers
+2026-02-05 23:35:08,976 - WARNING - Page not found (404): https://www.omnisend.com/customers
+2026-02-05 23:35:08,976 - INFO - Scraping app developer site: https://www.smile.io/customers
+2026-02-05 23:35:12,679 - INFO - Scraping app developer site: https://www.bold.org/clients
+2026-02-05 23:35:13,385 - WARNING - Page not found (404): https://www.bold.org/clients
+2026-02-05 23:35:13,385 - INFO - Scraping app developer site: https://www.shogun.com/customers
+2026-02-05 23:35:15,705 - WARNING - Page not found (404): https://www.shogun.com/customers
+2026-02-05 23:35:15,706 - INFO - Scraping app developer site: https://www.shipbob.com/customers
+2026-02-05 23:35:16,350 - WARNING - Page not found (404): https://www.shipbob.com/customers
+2026-02-05 23:35:16,350 - INFO - Scraping app developer site: https://www.loox.io/customers
+2026-02-05 23:35:16,649 - WARNING - Page not found (404): https://www.loox.io/customers
+2026-02-05 23:35:16,650 - INFO - Scraping Shopify Enterprise Customers...
+2026-02-05 23:35:16,650 - INFO - Scraping Shopify showcase: https://www.shopify.com/plus/customers
+2026-02-05 23:35:20,610 - INFO - Scraping Shopify showcase: https://www.shopify.com/customers
+2026-02-05 23:35:21,321 - INFO - Found enterprise customer: gladly.com
+2026-02-05 23:35:21,321 - INFO - Found enterprise customer: prweb.com
+2026-02-05 23:35:21,321 - INFO - Found enterprise customer: hyken.com
+2026-02-05 23:35:23,323 - INFO - Scraping Shopify showcase: https://www.shopify.com/enterprise
+2026-02-05 23:35:26,260 - INFO - Scraping Agency Portfolios...
+2026-02-05 23:35:26,261 - INFO - Scraping agency portfolio: https://www.weareundercurrent.com/work
+2026-02-05 23:35:27,027 - ERROR - Error scraping agency portfolio https://www.weareundercurrent.com/work: 403 Client Error: Forbidden for url: https://www.weareundercurrent.com/work
+2026-02-05 23:35:27,027 - INFO - Scraping agency portfolio: https://www.disruptiveagency.com/work
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,464 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:28,465 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,468 - INFO - Scraping agency portfolio: https://www.bluewaterglobal.com/portfolio
+2026-02-05 23:35:31,856 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,856 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,856 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,856 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,856 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,856 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:31,857 - INFO - Found store from agency portfolio: hugedomains.com
+2026-02-05 23:35:34,860 - INFO - Scraping agency portfolio: https://www.thisiselectric.com/work
+2026-02-05 23:35:35,161 - ERROR - Error scraping agency portfolio https://www.thisiselectric.com/work: HTTPSConnectionPool(host='www.thisiselectric.com', port=443): Max retries exceeded with url: /work (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2026-02-05 23:35:35,162 - INFO - Saved 36 domains to /Users/pjump/Desktop/projects/shopify-merchant-intelligence/data/partner_directory/domains.txt
+2026-02-05 23:35:35,162 - INFO - Saved detailed report to /Users/pjump/Desktop/projects/shopify-merchant-intelligence/data/partner_directory/detailed_report.json
+
+================================================================================
+SCRAPING COMPLETE
+================================================================================
+
+Total stores discovered: 36
+
+Breakdown by source:
+  Experts: 0
+  Apps: 0
+  Themes: 0
+  Showcases: 36
+
+Results saved to: /Users/pjump/Desktop/projects/shopify-merchant-intelligence/data/partner_directory/
+  - domains.txt (all domains)
+  - detailed_report.json (breakdown by source)
+
+Sample discovered stores:
+  - academy.gorgias.com
+  - academy.klaviyo.com
+  - agencies.gorgias.com
+  - apply.workable.com
+  - commerce-gpt.yotpo.com
+  - community.gorgias.com
+  - community.klaviyo.com
+  - connect.klaviyo.com
+  - core-api.yotpo.com
+  - dash.partnerstack.com

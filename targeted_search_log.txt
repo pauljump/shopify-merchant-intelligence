@@ -1,0 +1,63 @@
+🔍 Targeted GitHub Search for USA Shopify Stores
+📊 Running 24 targeted queries...
+
+🔎 Query: 'shopify stores USA'
+  ⏭️  No results
+🔎 Query: 'shopify stores "United States"'
+  ⏭️  No results
+🔎 Query: 'shopify stores NYC'
+  ⏭️  No results
+🔎 Query: 'shopify stores "Los Angeles"'
+  ⏭️  No results
+🔎 Query: 'shopify stores "San Francisco"'
+  ✅ Found 1 results
+🔎 Query: 'shopify stores Chicago'
+  ⏭️  No results
+🔎 Query: 'shopify stores Texas'
+  ⏭️  No results
+🔎 Query: 'shopify stores California'
+  ⏭️  No results
+🔎 Query: 'shopify grocery stores'
+  ⏭️  No results
+🔎 Query: 'shopify food delivery'
+  ✅ Found 4 results
+🔎 Query: 'shopify restaurant'
+  ⏭️  No results
+🔎 Query: 'shopify bakery'
+  ⏭️  No results
+🔎 Query: 'shopify coffee shops'
+  ⏭️  No results
+🔎 Query: 'shopify meal kit'
+  ⏭️  No results
+🔎 Query: 'shopify farm store'
+  ⏭️  No results
+🔎 Query: 'shopify local delivery'
+  ⏭️  No results
+🔎 Query: 'shopify same-day delivery'
+  ⏭️  No results
+🔎 Query: 'shopify local pickup'
+  ⏭️  No results
+🔎 Query: 'shopify curbside'
+  ⏭️  No results
+🔎 Query: 'shopify retail stores'
+  ⏭️  No results
+🔎 Query: 'shopify boutique'
+  ⏭️  No results
+🔎 Query: 'USA shopify merchants'
+  ⏭️  No results
+🔎 Query: 'American shopify stores'
+  ⏭️  No results
+🔎 Query: 'shopify plus stores USA'
+  ⏭️  No results
+
+============================================================
+🎯 Targeted Search Complete!
+============================================================
+📁 Results found: 1
+🌐 Total unique domains: 6
+============================================================
+
+💾 Saved to data/targeted_search/
+
+📊 Top sources:
+      6 domains - https://github.com/Mattersley/DobotAssistant

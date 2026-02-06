@@ -1,0 +1,347 @@
+🔍 Searching GitHub for Shopify store datasets...
+📊 Running 10 search queries...
+
+🔎 Query: 'shopify stores in:readme'
+  📦 Checking: sindresorhus/awesome
+    ⏭️  No domains found
+  📦 Checking: avelino/awesome-go
+    ✅ Found 226 domains
+  📦 Checking: punkpeye/awesome-mcp-servers
+    ✅ Found 113 domains
+  📦 Checking: modelcontextprotocol/servers
+    ✅ Found 675 domains
+  📦 Checking: binhnguyennus/awesome-scalability
+    ✅ Found 319 domains
+  📦 Checking: bradtraversy/design-resources-for-developers
+    ⏭️  No domains found
+  📦 Checking: vsouza/awesome-ios
+    ✅ Found 173 domains
+  📦 Checking: goabstract/Awesome-Design-Tools
+    ✅ Found 536 domains
+  📦 Checking: ashishps1/awesome-system-design-resources
+    ✅ Found 32 domains
+  📦 Checking: eugeneyan/applied-ml
+    ✅ Found 171 domains
+  📦 Checking: unixorn/awesome-zsh-plugins
+    ✅ Found 214 domains
+  📦 Checking: chentsulin/awesome-graphql
+    ✅ Found 130 domains
+  📦 Checking: boltdb/bolt
+    ✅ Found 16 domains
+  📦 Checking: markets/awesome-ruby
+    ✅ Found 107 domains
+  📦 Checking: visenger/awesome-mlops
+    ✅ Found 271 domains
+  📦 Checking: h4cc/awesome-elixir
+    ✅ Found 128 domains
+  📦 Checking: goabstract/Marketing-for-Engineers
+    ✅ Found 218 domains
+  📦 Checking: glittercowboy/get-shit-done
+    ✅ Found 6 domains
+  📦 Checking: VoltAgent/awesome-openclaw-skills
+    ✅ Found 29 domains
+  📦 Checking: etcd-io/bbolt
+    ✅ Found 19 domains
+
+🔎 Query: 'shopify domains in:file'
+  📦 Checking: darkroomengineering/elliot-shopify-python-scraping-tool
+    ✅ Found 1 domains
+  📦 Checking: dipinarora9/Shopify-Domains-Scraper
+    ✅ Found 1 domains
+  📦 Checking: builder-group/saku
+    ✅ Found 6 domains
+  📦 Checking: nebulab/active_shopify_graphql
+    ✅ Found 5 domains
+  📦 Checking: PaulvdDool/shopify-nextjs-routing-app
+    ✅ Found 4 domains
+  📦 Checking: antonstroberg/Shopify-JSON-to-CSV-Converter
+    ✅ Found 1 domains
+  📦 Checking: fivetran/streamlit_fivetran_billing_model
+    ✅ Found 3 domains
+  📦 Checking: DanWebb/valid-shopify-domain
+    ⏭️  No domains found
+  📦 Checking: PrashantBtkl/scoopify
+    ✅ Found 1 domains
+  📦 Checking: xiaoxudoo/shopify-service
+    ✅ Found 2 domains
+  📦 Checking: whizkid77/shopify-incoming-monitor
+    ⏭️  No domains found
+  📦 Checking: CreatorsClub/cc-shopify-proxy
+    ⏭️  No domains found
+  📦 Checking: hostmaria/mariacoin
+    ✅ Found 36 domains
+  📦 Checking: Amirkhan012345/checkout.shopify.com-
+    ✅ Found 1 domains
+  📦 Checking: 4brainiacs/proxy-app
+    ⏭️  No domains found
+  📦 Checking: kmop/sites-using-shopify-2022
+    ✅ Found 5 domains
+  📦 Checking: Ahmedhemaz/shopify-clone
+    ⏭️  No domains found
+  📦 Checking: bidoubiwa/retrieve_products_from_shopify
+    ✅ Found 1 domains
+  📦 Checking: PineForest/shopify-fulfillment
+    ⏭️  No domains found
+  📦 Checking: Soulcharger745/studious-guacamole
+    ⏭️  No domains found
+
+🔎 Query: 'shopify sites list'
+  📦 Checking: igrigorik/shopify-core-web-vitals
+    ✅ Found 10 domains
+  📦 Checking: sonya75/ListShopifySites
+    ⏭️  No domains found
+  📦 Checking: hvateam1/How-to-start-a-walmart-dropshipping-business
+    ⏭️  No domains found
+  📦 Checking: liam-cornu/Shopify-Discount-Bot
+    ✅ Found 3 domains
+  📦 Checking: suran0330/inkey-list-clone
+    ✅ Found 6 domains
+  📦 Checking: HussnainSardar1981/E-Commerce-Product-Pipeline-Automation
+    ⏭️  No domains found
+  📦 Checking: Parthwebde12/shopifyclone
+    ⏭️  No domains found
+  📦 Checking: digvjs/shopify-api-php
+    ⏭️  No domains found
+  📦 Checking: Bisola06/Dasor
+    ⏭️  No domains found
+  📦 Checking: soona-studios/marketing-listing-insights
+    ✅ Found 3 domains
+  📦 Checking: akemikat/akemikat.github.io
+    ⏭️  No domains found
+
+🔎 Query: 'myshopify.com in:file'
+  📦 Checking: albaityAli/CronusZen
+    ✅ Found 1 domains
+  📦 Checking: DanWebb/valid-shopify-domain
+    ⏭️  No domains found
+  📦 Checking: flutistar/black-ink-brand
+    ⏭️  No domains found
+  📦 Checking: brookesiepie/https-thewoodworkingsource1.myshopify.com
+    ⏭️  No domains found
+  📦 Checking: Pixboost/shopify-wroom-wroom-debut
+    ✅ Found 8 domains
+  📦 Checking: WawMart-Us/B2B
+    ✅ Found 2 domains
+  📦 Checking: marcellodash/JoeyJoebags
+    ✅ Found 1 domains
+  📦 Checking: https-share-temu-com-syPs3qXHUGA/Sultanhorizons
+    ✅ Found 2 domains
+  📦 Checking: roco66/-shopbuysellbazar-
+    ⏭️  No domains found
+  📦 Checking: rojants/symmetrical-octo-guide
+    ✅ Found 3 domains
+  📦 Checking: umitkutlu895/umit
+    ✅ Found 3 domains
+  📦 Checking: Onlyketo/MY-STORE
+    ✅ Found 4 domains
+  📦 Checking: icedaman/shopify-1st-store
+    ✅ Found 9 domains
+  📦 Checking: JeniferFashion/.myshopify.com
+    ✅ Found 1 domains
+  📦 Checking: cookiemonster/Wifi-Pineapple
+    ⏭️  No domains found
+  📦 Checking: Jramonline/69intimatedesires.myshopify.com
+    ⏭️  No domains found
+  📦 Checking: skymixx/https-Skymixx.myshopify.com
+    ⏭️  No domains found
+  📦 Checking: RufatRahmatov/myshopify.com-final-project-
+    ⏭️  No domains found
+  📦 Checking: Luxe1HOMEDECOR/klik-luxe.myshopify.com
+    ⏭️  No domains found
+  📦 Checking: jetjetty127/http-ropaacctrucking.myshopify.com
+    ⏭️  No domains found
+
+🔎 Query: 'shopify store list'
+  📦 Checking: chat-data-llc/shopify_store_traffic_api
+    ✅ Found 6 domains
+  📦 Checking: deepcodeshopify/shopify_bundles
+    ✅ Found 1 domains
+  📦 Checking: yeusiukou/etsyficator
+    ✅ Found 5 domains
+  📦 Checking: isamisushi/awesome-headless-shopify-stores
+    ✅ Found 21 domains
+  📦 Checking: joshmu/scrape-shopify
+    ⏭️  No domains found
+  📦 Checking: hvateam1/How-to-start-a-walmart-dropshipping-business
+    ⏭️  No domains found
+  📦 Checking: Shopify-Apps/Most-Useful-Shopify-Apps
+    ✅ Found 2 domains
+  📦 Checking: pluskyitsolutions/shopify-atom-blog-listing-with-filters
+    ⏭️  No domains found
+  📦 Checking: Shopify-Themes-List/Free-Shopify-Themes
+    ✅ Found 2 domains
+  📦 Checking: ryanpwaldon/shopify-app-store-scraper
+    ⏭️  No domains found
+  📦 Checking: Tricky3/shopify-jsonStoreLister
+    ✅ Found 6 domains
+  📦 Checking: durationsyrup/JSON-List-of-5000-Shopify-Stores
+    ✅ Found 5812 domains
+  📦 Checking: johnmichealacera/localwebventures-shopify-store
+    ✅ Found 23 domains
+  📦 Checking: SChandu7/ecommerce-shopify-store
+    ✅ Found 3 domains
+  📦 Checking: rathoddivy/Shopify-Store
+    ✅ Found 19 domains
+  📦 Checking: akshatthakur7424/shopify-app
+    ⏭️  No domains found
+  📦 Checking: gabriel-pipia/Shopify
+    ✅ Found 2 domains
+  📦 Checking: HussnainSardar1981/E-Commerce-Product-Pipeline-Automation
+    ⏭️  No domains found
+  📦 Checking: devcraft-s/making-shopify-store-list
+    ⏭️  No domains found
+  📦 Checking: RayaneL8/OlympeAppShopify
+    ✅ Found 29 domains
+
+🔎 Query: 'ecommerce sites shopify'
+  📦 Checking: peter-abah/lumino
+    ✅ Found 11 domains
+  📦 Checking: tobistudio/e-conom-site
+    ✅ Found 12 domains
+  📦 Checking: BKWLD/shopify-gtm-instrumentor
+    ✅ Found 12 domains
+  📦 Checking: rusirujayawardhana/Carnage-Theme
+    ✅ Found 1 domains
+  📦 Checking: mmaelzer/ShopifyScripts
+    ✅ Found 2 domains
+  📦 Checking: bdauphouy/shopiette
+    ✅ Found 3 domains
+  📦 Checking: siradji/tailwind-nextjs-ecommerce
+    ⏭️  No domains found
+  📦 Checking: BCAPATHSHALA/SHOPYRO_LITE
+    ✅ Found 22 domains
+  📦 Checking: mdjonestwo/Zenith-Shopify-Theme
+    ✅ Found 1 domains
+  📦 Checking: amartincastro/zevado
+    ⏭️  No domains found
+  📦 Checking: thien-io/nice
+    ✅ Found 17 domains
+  📦 Checking: Jack-grittier/lumino
+    ✅ Found 11 domains
+  📦 Checking: nikkisato/gatsby-shopify-course
+    ⏭️  No domains found
+  📦 Checking: accaplan/article-one-gatsby
+    ✅ Found 1 domains
+  📦 Checking: Will-Langhart/Shopify
+    ✅ Found 1 domains
+  📦 Checking: jakeherp/gatsby-ecommerce
+    ✅ Found 4 domains
+  📦 Checking: cded/gatsby-shopify-store
+    ✅ Found 3 domains
+  📦 Checking: archaugust/gnomes
+    ✅ Found 1 domains
+  📦 Checking: paschal-droid/eCommerce-app
+    ✅ Found 3 domains
+  📦 Checking: Ekwuno/Colbyashi-Mara-Ecommerce-site
+    ✅ Found 1 domains
+
+🔎 Query: 'shopify merchants'
+  📦 Checking: vuestorefront/vue-storefront
+    ✅ Found 27 domains
+  📦 Checking: activemerchant/active_merchant
+    ✅ Found 131 domains
+  📦 Checking: MugglePay/MugglePay
+    ✅ Found 8 domains
+  📦 Checking: ownego/polaris-vue
+    ✅ Found 4 domains
+  📦 Checking: jaayperez/shopify-node-react-app
+    ✅ Found 11 domains
+  📦 Checking: husseyexplores/poshify-utilities
+    ⏭️  No domains found
+  📦 Checking: DrLina/Shopify-AMP-Theme
+    ✅ Found 3 domains
+  📦 Checking: FeeFighters/objective_merchant
+    ⏭️  No domains found
+  📦 Checking: nozzlegear/deliver-on
+    ✅ Found 1 domains
+  📦 Checking: pranav-kural/products-vectro
+    ✅ Found 23 domains
+  📦 Checking: sellersmith/tailorkit-mcp
+    ✅ Found 8 domains
+  📦 Checking: RazerMS/Shopping-Cart-Plugins-RazerMS_Hosted_Payment_for_Shopify
+    ✅ Found 9 domains
+  📦 Checking: mrmarufpro/qbfy-banner
+    ✅ Found 9 domains
+  📦 Checking: dapic/spree_offsite_payments
+    ✅ Found 1 domains
+  📦 Checking: FiuuPayment/Shopping-Cart-Plugins-Fiuu_Hosted_Payment_for_Shopify
+    ✅ Found 9 domains
+  📦 Checking: javigong/shopify-qr-codes-app
+    ✅ Found 26 domains
+  📦 Checking: hvateam1/How-to-start-a-walmart-dropshipping-business
+    ⏭️  No domains found
+  📦 Checking: limeforadime/liminal-shopify-order-exporter
+    ⏭️  No domains found
+  📦 Checking: sladesoftware/shopify-bulk-price-edit
+    ✅ Found 8 domains
+  📦 Checking: ahmedezzaouia/Shopify-for-Merchants
+    ⏭️  No domains found
+
+🔎 Query: 'shopify plus stores'
+  📦 Checking: mafaqdev/Shopify-Plus-Dynamic-Bundles---Primally-Pure-high-complexity---Custom-Code
+    ⏭️  No domains found
+  📦 Checking: JadePuma/Shopify-Plus-Custom-Breadcrumbs
+    ⏭️  No domains found
+  📦 Checking: shameelnasir1/shopify-
+    ⏭️  No domains found
+  📦 Checking: fena-co/checkout-ui-Shopify-code
+    ⏭️  No domains found
+
+🔎 Query: 'shopify headless stores'
+  📦 Checking: BuilderIO/nextjs-shopify
+    ✅ Found 15 domains
+  📦 Checking: snowdiamonds/react-email-shopify-liquid
+    ✅ Found 5 domains
+  📦 Checking: filiphsps/react-shopify-analytics
+    ✅ Found 6 domains
+  📦 Checking: nathanmcmullendev/ecommerce-react
+    ✅ Found 13 domains
+  📦 Checking: mematthew123/Shopify-template
+    ✅ Found 3 domains
+  📦 Checking: yhuakim/kicks-stores
+    ✅ Found 2 domains
+  📦 Checking: AlAnTuck/headless-ecom-store
+    ✅ Found 13 domains
+  📦 Checking: tentendev/awesome-headless-shopify-stores
+    ✅ Found 100 domains
+  📦 Checking: grucare/nextjs-shopify
+    ✅ Found 11 domains
+  📦 Checking: AbdullahBamzahem/abdullah-bamzahem-portfolio
+    ✅ Found 6 domains
+
+🔎 Query: 'shopify store dataset'
+  📦 Checking: usernam3/shopify-app-store-scraper
+    ✅ Found 5 domains
+  📦 Checking: SuavecitoInc/shopify-tools-cli
+    ✅ Found 1 domains
+  📦 Checking: BenDrabeck/Customer-Data-Pipeline-Analysis
+    ⏭️  No domains found
+  📦 Checking: NIHARIKA-SINGH-MAINI/-Power-BI-dashboard-of-Shopify-dataset-
+    ⏭️  No domains found
+  📦 Checking: sarvesh-114/Shopify-Analysis-Project
+    ⏭️  No domains found
+  📦 Checking: stokedforkhari/Shopify-App-Analysis-Success-Drivers-in-the-App-Marketplace-Power-BI-
+    ⏭️  No domains found
+
+============================================================
+🎯 Discovery Complete!
+============================================================
+📁 Repositories found: 102
+🌐 Total unique domains: 9057
+============================================================
+
+💾 Saved results:
+   - data/github_mass_search/repos_found.json (102 repos)
+   - data/github_mass_search/all_domains.txt (9057 domains)
+
+📊 Top repositories by domain count:
+   5812 domains - https://github.com/durationsyrup/JSON-List-of-5000-Shopify-Stores
+    675 domains - https://github.com/modelcontextprotocol/servers
+    536 domains - https://github.com/goabstract/Awesome-Design-Tools
+    319 domains - https://github.com/binhnguyennus/awesome-scalability
+    271 domains - https://github.com/visenger/awesome-mlops
+    226 domains - https://github.com/avelino/awesome-go
+    218 domains - https://github.com/goabstract/Marketing-for-Engineers
+    214 domains - https://github.com/unixorn/awesome-zsh-plugins
+    173 domains - https://github.com/vsouza/awesome-ios
+    171 domains - https://github.com/eugeneyan/applied-ml

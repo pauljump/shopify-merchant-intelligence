@@ -1,0 +1,52 @@
+{
+  "total_stores": 36,
+  "breakdown": {
+    "experts": 0,
+    "apps": 0,
+    "themes": 0,
+    "showcases": 36
+  },
+  "stores_by_source": {
+    "experts": [],
+    "apps": [],
+    "themes": [],
+    "showcases": [
+      "academy.gorgias.com",
+      "academy.klaviyo.com",
+      "agencies.gorgias.com",
+      "apply.workable.com",
+      "commerce-gpt.yotpo.com",
+      "community.gorgias.com",
+      "community.klaviyo.com",
+      "connect.klaviyo.com",
+      "core-api.yotpo.com",
+      "dash.partnerstack.com",
+      "dashboard.privy.com",
+      "developers.gorgias.com",
+      "developers.klaviyo.com",
+      "docs.gorgias.com",
+      "drive.google.com",
+      "gladly.com",
+      "gorgias.com",
+      "help.klaviyo.com",
+      "help.privy.com",
+      "hugedomains.com",
+      "hyken.com",
+      "investors.klaviyo.com",
+      "klaviyo.com",
+      "login.yotpo.com",
+      "marketplace.klaviyo.com",
+      "portal.productboard.com",
+      "privy.com",
+      "prweb.com",
+      "status.gorgias.com",
+      "status.yotpo.com",
+      "support.yotpo.com",
+      "support@privy.com",
+      "updates.gorgias.com",
+      "womeninecomm.com",
+      "yap.yotpo.com",
+      "yotpo.com"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+🚀 Async discovery - processing up to 30 stores concurrently...
+Database initialized: sqlite:///shopify_leads.db
+📄 Loading domains from text file: data/reverse_ip/domains_clean.txt
+✅ Found 258 stores from text file
+⏭️  Skipped 1 already-processed stores
+📊 Processing 257 new stores...
+
+Processing batch 1/2...
+/Users/pjump/Desktop/projects/shopify-merchant-intelligence/src/main_async.py:136: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  scraped_at=datetime.utcnow(),
+  ✅ Saved 74 Shopify stores
+
+Processing batch 2/2...
+  ✅ Saved 46 Shopify stores
+
+🎉 Discovery complete! Processed 120 Shopify stores

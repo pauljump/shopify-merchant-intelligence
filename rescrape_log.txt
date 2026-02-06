@@ -1,0 +1,14 @@
+🔄 Re-scraping US stores for missing addresses...
+Database initialized: sqlite:///shopify_leads.db
+📊 Found 44 stores missing street addresses
+
+🔄 Processing batch 1/1...
+  ✅ Updated 0 stores with addresses
+
+============================================================
+🎉 Re-scraping Complete!
+============================================================
+Total stores updated: 0
+============================================================
+
+📊 USA Shopify Plus with full addresses: 10

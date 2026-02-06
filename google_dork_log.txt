@@ -1,0 +1,67 @@
+🦆 Google Dorking via DuckDuckGo...
+📊 Running 17 queries
+
+🔎 Query: '"powered by Shopify" USA'
+  ✅ Found 1 domains
+🔎 Query: '"powered by Shopify" "United States"'
+  ⏭️  No results
+🔎 Query: 'site:myshopify.com'
+  ✅ Found 10 domains
+🔎 Query: '"Shopify Plus" store USA'
+  ✅ Found 9 domains
+🔎 Query: '"Shopify Plus" merchant America'
+  ✅ Found 9 domains
+🔎 Query: '"local delivery" "powered by Shopify"'
+  ⏭️  No results
+🔎 Query: '"same day delivery" "Shopify"'
+  ✅ Found 1 domains
+🔎 Query: '"curbside pickup" "Shopify"'
+  ⏭️  No results
+🔎 Query: 'grocery "powered by Shopify" USA'
+  ⏭️  No results
+🔎 Query: 'restaurant "Shopify" "local delivery"'
+  ⏭️  No results
+🔎 Query: 'bakery "Shopify" USA'
+  ⏭️  No results
+🔎 Query: 'coffee shop "Shopify" America'
+  ⏭️  No results
+🔎 Query: '"powered by Shopify" "New York"'
+  ⏭️  No results
+🔎 Query: '"powered by Shopify" "Los Angeles"'
+  ⏭️  No results
+🔎 Query: '"powered by Shopify" "Chicago"'
+  ⏭️  No results
+🔎 Query: '"powered by Shopify" "San Francisco"'
+  ⏭️  No results
+🔎 Query: '"powered by Shopify" "Texas"'
+  ⏭️  No results
+
+============================================================
+🎯 Dorking Complete!
+============================================================
+🌐 Total unique domains: 29
+============================================================
+
+💾 Saved to data/google_dork/domains.txt
+
+📊 Sample results:
+  - snap-a-gadget.myshopify.com
+  - clickpost.ai
+  - login.myshopify.com
+  - the-semper-fi-store.myshopify.com
+  - new-ella.myshopify.com
+  - bernina-jeff.myshopify.com
+  - sitebuilderreport.com
+  - sherocommerce.com
+  - omnisend.com
+  - bsscommerce.com
+  - what.digital
+  - winterlandinc.myshopify.com
+  - ghostplanter.myshopify.com
+  - releas.it
+  - spanglobalservices.com
+  - ktsapparel.myshopify.com
+  - influencermarketinghub.com
+  - uptek.com
+  - mcspirit.myshopify.com
+  - attrac.io

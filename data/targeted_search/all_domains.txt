@@ -1,0 +1,6 @@
+a11yproject.com
+i18next.com
+ionicframework.com
+jetbrains.com
+owasp.org
+smashingmagazine.com

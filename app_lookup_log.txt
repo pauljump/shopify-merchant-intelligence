@@ -1,0 +1,49 @@
+🔍 Shopify App Store Reverse Lookup...
+📊 Checking 16 apps
+
+📱 App: local-delivery
+/Users/pjump/Desktop/projects/shopify-merchant-intelligence/src/discovery/app_store_reverse_lookup.py:150: DeprecationWarning: The 'text' argument to find()-type methods is deprecated. Use 'string' instead.
+  featured_text = soup.find_all(text=re.compile(r'(trusted by|used by|powered|customers include)', re.I))
+  ⏭️  No stores found
+📱 App: uber-direct
+  ⏭️  No stores found
+📱 App: doordash
+  ⚠️  App not found
+📱 App: postmates
+  ⚠️  App not found
+📱 App: deliverr
+  ⚠️  App not found
+📱 App: ship-station
+  ⚠️  App not found
+📱 App: stripe
+  ⚠️  App not found
+📱 App: paypal
+  ⚠️  App not found
+📱 App: usps
+  ⚠️  App not found
+📱 App: fedex
+  ⚠️  App not found
+📱 App: ups
+  ⚠️  App not found
+📱 App: klaviyo
+  ⚠️  App not found
+📱 App: yotpo
+  ⏭️  No stores found
+📱 App: smile-rewards
+  ⚠️  App not found
+📱 App: judge-me
+  ⚠️  App not found
+📱 App: privy
+  ✅ Found 1 stores
+
+============================================================
+🎯 App Store Reverse Lookup Complete!
+============================================================
+📱 Apps checked: 1
+🌐 Total stores found: 1
+============================================================
+
+💾 Saved to data/app_store_lookup/
+
+📊 Top apps by stores found:
+  privy: 1 stores

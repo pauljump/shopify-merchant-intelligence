@@ -1,0 +1,53 @@
+🔍 Discovering Shopify IP Infrastructure...
+============================================================
+
+📍 Method 1: Resolving known Shopify domains...
+  🌐 shopify.com → 23.227.38.33
+  🌐 myshopify.com → 23.227.38.32
+  🌐 cdn.shopify.com → 23.227.39.200
+  🌐 shop.app → 185.146.173.20
+✅ Found 4 IPs from known domains
+
+📍 Method 2: ASN lookup for Shopify...
+  📋 ASN Info: error getting result...
+  ⚠️  IPInfo error: Expecting value: line 3 column 1 (char 2)
+✅ Found 0 IPs from ASN lookup
+
+📍 Method 3: Expanding IP ranges...
+  🔄 Expanded 185.146.173.20 → 26 IPs in /24 range
+  🔄 Expanded 23.227.39.200 → 52 IPs in /24 range
+  🔄 Expanded 23.227.38.33 → 78 IPs in /24 range
+  🔄 Expanded 23.227.38.32 → 78 IPs in /24 range
+✅ Expanded to 78 nearby IPs
+
+============================================================
+🎯 IP Discovery Complete!
+============================================================
+📊 Total IPs to check: 80
+============================================================
+
+💾 Saved to data/shopify_ips/all_ips.txt
+
+📊 Sample IPs to check:
+  - 23.227.38.150
+  - 23.227.38.33
+  - 185.146.173.150
+  - 185.146.173.240
+  - 185.146.173.50
+  - 23.227.38.32
+  - 185.146.173.130
+  - 23.227.39.10
+  - 23.227.38.230
+  - 23.227.39.140
+  - 23.227.39.130
+  - 185.146.173.80
+  - 23.227.39.100
+  - 23.227.38.130
+  - 23.227.38.180
+  - 23.227.39.170
+  - 23.227.38.170
+  - 23.227.38.50
+  - 23.227.38.90
+  - 23.227.38.80
+
+💡 Next: Run reverse IP lookup on these 80 IPs to find stores

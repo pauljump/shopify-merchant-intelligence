@@ -42,6 +42,19 @@ async def discover_stores_async(args):
 
         print(f"✅ Found {len(github_domains)} stores from GitHub")
 
+    if args.txtfile:
+        print(f"📄 Loading domains from text file: {args.txtfile}")
+        try:
+            with open(args.txtfile, 'r') as f:
+                txt_domains = [line.strip() for line in f if line.strip()]
+
+            for domain in txt_domains:
+                stores_data.append({'domain': domain})
+
+            print(f"✅ Found {len(txt_domains)} stores from text file")
+        except Exception as e:
+            print(f"⚠️  Error loading text file: {e}")
+
     # Filter out already-processed stores (deduplication)
     existing_domains = set([s.domain for s in session.query(ShopifyStore.domain).all()])
     new_stores = [s for s in stores_data if s['domain'] not in existing_domains]
@@ -142,6 +155,7 @@ def main():
     discover_parser.add_argument('--limit', type=int, default=1000, help='Max stores to discover')
     discover_parser.add_argument('--csv', type=str, help='CSV file with seed domains')
     discover_parser.add_argument('--github', action='store_true', help='Search GitHub datasets')
+    discover_parser.add_argument('--txtfile', type=str, help='Text file with domains (one per line)')
     discover_parser.add_argument('--concurrent', type=int, default=20, help='Concurrent requests (default: 20)')
 
     args = parser.parse_args()

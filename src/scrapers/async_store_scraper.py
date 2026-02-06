@@ -46,12 +46,22 @@ class AsyncStoreScraper:
             try:
                 # Try contact page first
                 contact_data = await self._scrape_contact_page(session, domain)
-                data.update(contact_data)
+                data.update({k: v for k, v in contact_data.items() if v})
 
                 # Try homepage footer if needed
                 if not data['street_address']:
                     homepage_data = await self._scrape_homepage_footer(session, domain)
-                    data.update(homepage_data)
+                    data.update({k: v for k, v in homepage_data.items() if v})
+
+                # Try about page if still missing address
+                if not data['street_address']:
+                    about_data = await self._scrape_about_page(session, domain)
+                    data.update({k: v for k, v in about_data.items() if v})
+
+                # Try Schema.org structured data
+                if not data['street_address']:
+                    schema_data = await self._scrape_schema_org(session, domain)
+                    data.update({k: v for k, v in schema_data.items() if v})
 
                 # Check shipping policy
                 shipping_data = await self._check_shipping_policy(session, domain)
@@ -130,6 +140,81 @@ class AsyncStoreScraper:
 
         return data
 
+    async def _scrape_about_page(self, session: aiohttp.ClientSession, domain: str) -> Dict[str, Any]:
+        """Scrape about/locations pages for address."""
+        data = {}
+        about_urls = [
+            f'{domain}/pages/about',
+            f'{domain}/pages/about-us',
+            f'{domain}/pages/locations',
+            f'{domain}/pages/our-store',
+            f'{domain}/pages/visit-us',
+            f'{domain}/about',
+        ]
+
+        for url in about_urls:
+            try:
+                async with session.get(url, timeout=self.timeout) as response:
+                    if response.status == 200:
+                        html = await response.text()
+                        soup = BeautifulSoup(html, 'html.parser')
+
+                        if not data.get('street_address'):
+                            address = self._extract_address(soup)
+                            if address and address.get('street_address'):
+                                data.update(address)
+                                break
+            except:
+                continue
+
+        return data
+
+    async def _scrape_schema_org(self, session: aiohttp.ClientSession, domain: str) -> Dict[str, Any]:
+        """Extract address from Schema.org structured data (JSON-LD)."""
+        data = {}
+
+        try:
+            async with session.get(domain, timeout=self.timeout) as response:
+                html = await response.text()
+                soup = BeautifulSoup(html, 'html.parser')
+
+                # Find JSON-LD scripts
+                scripts = soup.find_all('script', type='application/ld+json')
+
+                for script in scripts:
+                    try:
+                        schema_data = json.loads(script.string)
+
+                        # Handle both single object and list
+                        if isinstance(schema_data, list):
+                            schemas = schema_data
+                        else:
+                            schemas = [schema_data]
+
+                        for schema in schemas:
+                            # Look for organization/local business schema
+                            if schema.get('@type') in ['Organization', 'LocalBusiness', 'Store']:
+                                address_obj = schema.get('address', {})
+
+                                if isinstance(address_obj, dict):
+                                    if not data.get('street_address') and address_obj.get('streetAddress'):
+                                        data['street_address'] = address_obj.get('streetAddress')
+                                        data['city'] = address_obj.get('addressLocality')
+                                        data['state'] = address_obj.get('addressRegion')
+                                        data['zip_code'] = address_obj.get('postalCode')
+                                        data['country'] = address_obj.get('addressCountry', 'US')
+
+                                if not data.get('phone') and schema.get('telephone'):
+                                    data['phone'] = schema.get('telephone')
+
+                    except (json.JSONDecodeError, AttributeError):
+                        continue
+
+        except:
+            pass
+
+        return data
+
     async def _check_shipping_policy(self, session: aiohttp.ClientSession, domain: str) -> Dict[str, Any]:
         """Check if store offers local delivery."""
         data = {'has_local_delivery': False}
@@ -184,7 +269,7 @@ class AsyncStoreScraper:
         return phones[0] if phones else None
 
     def _extract_address(self, soup_or_tag) -> Dict[str, Optional[str]]:
-        """Extract address from HTML."""
+        """Extract address from HTML with multiple pattern matching."""
         address_data = {
             'street_address': None,
             'city': None,
@@ -193,19 +278,46 @@ class AsyncStoreScraper:
             'country': None,
         }
 
-        address_tags = soup_or_tag.find_all(['address', 'div'], class_=re.compile(r'address', re.I))
+        # Try address tags first
+        address_tags = soup_or_tag.find_all(['address', 'div', 'p'], class_=re.compile(r'(address|location|contact)', re.I))
+
+        # Also search entire text if no address tags found
+        if not address_tags:
+            address_tags = [soup_or_tag]
 
         for tag in address_tags:
             text = tag.get_text()
-            us_pattern = r'([^,\n]+),\s*([^,\n]+),\s*([A-Z]{2})\s*(\d{5})'
-            match = re.search(us_pattern, text)
 
-            if match:
-                address_data['street_address'] = match.group(1).strip()
-                address_data['city'] = match.group(2).strip()
-                address_data['state'] = match.group(3).strip()
-                address_data['zip_code'] = match.group(4).strip()
-                address_data['country'] = 'US'
+            # Multiple US address patterns
+            patterns = [
+                # Pattern 1: 123 Main St, New York, NY 10001
+                r'(\d+\s+[^,\n]+),\s*([^,\n]+),\s*([A-Z]{2})\s*(\d{5}(?:-\d{4})?)',
+                # Pattern 2: New York, NY 10001 (city, state, zip)
+                r'([^,\n]+),\s*([A-Z]{2})\s*(\d{5}(?:-\d{4})?)',
+                # Pattern 3: 123 Main Street\nNew York, NY 10001
+                r'(\d+\s+[^\n]+)\n\s*([^,\n]+),\s*([A-Z]{2})\s*(\d{5}(?:-\d{4})?)',
+            ]
+
+            for pattern in patterns:
+                match = re.search(pattern, text)
+
+                if match:
+                    if len(match.groups()) == 4:
+                        # Full address with street
+                        address_data['street_address'] = match.group(1).strip()
+                        address_data['city'] = match.group(2).strip()
+                        address_data['state'] = match.group(3).strip()
+                        address_data['zip_code'] = match.group(4).strip()
+                    elif len(match.groups()) == 3:
+                        # City, state, zip only
+                        address_data['city'] = match.group(1).strip()
+                        address_data['state'] = match.group(2).strip()
+                        address_data['zip_code'] = match.group(3).strip()
+
+                    address_data['country'] = 'US'
+                    break
+
+            if address_data['city']:  # Found something
                 break
 
         return address_data

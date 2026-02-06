@@ -1,0 +1,17 @@
+🔍 Searching Certificate Transparency logs for *.myshopify.com...
+📊 Target: 50,000 stores
+
+  🌐 Querying: https://crt.sh/?q=%25.myshopify.com&output=json
+  📊 Received 4,999 certificate entries
+  ✅ Extracted 1,932 unique domains
+
+============================================================
+🎯 Certificate Transparency Discovery Complete!
+============================================================
+🌐 Total *.myshopify.com domains: 1,932
+============================================================
+
+💾 Saved 1,932 domains to: data/crt_myshopify_domains.txt
+
+🎉 Discovery complete!
+   - *.myshopify.com stores: 1,932
