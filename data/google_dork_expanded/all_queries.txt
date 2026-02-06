@@ -1,0 +1,183 @@
+GOOGLE DORK QUERIES FOR USA SHOPIFY STORES
+================================================================================
+
+Total Queries: 170
+
+USE WITH:
+- Manual Google searches
+- SerpAPI (serpapi.com)
+- Google Custom Search API
+- Bing Search API
+
+================================================================================
+
+1. "powered by Shopify" "New York"
+2. "powered by Shopify" "Los Angeles"
+3. "powered by Shopify" "Chicago"
+4. "powered by Shopify" "Houston"
+5. "powered by Shopify" "Phoenix"
+6. "powered by Shopify" "Philadelphia"
+7. "powered by Shopify" "San Antonio"
+8. "powered by Shopify" "San Diego"
+9. "powered by Shopify" "Dallas"
+10. "powered by Shopify" "San Jose"
+11. "powered by Shopify" "Austin"
+12. "powered by Shopify" "Jacksonville"
+13. "powered by Shopify" "Fort Worth"
+14. "powered by Shopify" "Columbus"
+15. "powered by Shopify" "Charlotte"
+16. "powered by Shopify" "San Francisco"
+17. "powered by Shopify" "Indianapolis"
+18. "powered by Shopify" "Seattle"
+19. "powered by Shopify" "Denver"
+20. "powered by Shopify" "Washington DC"
+21. "powered by Shopify" "Boston"
+22. "powered by Shopify" "Nashville"
+23. "powered by Shopify" "Detroit"
+24. "powered by Shopify" "Portland"
+25. "powered by Shopify" "Las Vegas"
+26. "powered by Shopify" "Oklahoma City"
+27. "powered by Shopify" "Albuquerque"
+28. "powered by Shopify" "Tucson"
+29. "powered by Shopify" "Sacramento"
+30. "powered by Shopify" "Kansas City"
+31. "powered by Shopify" "Mesa"
+32. "powered by Shopify" "Atlanta"
+33. "powered by Shopify" "Miami"
+34. "powered by Shopify" "Raleigh"
+35. "powered by Shopify" "Minneapolis"
+36. "powered by Shopify" "Cleveland"
+37. "powered by Shopify" "Tampa"
+38. "powered by Shopify" "New Orleans"
+39. "powered by Shopify" "Aurora"
+40. "powered by Shopify" "Anaheim"
+41. "powered by Shopify" "St. Louis"
+42. "powered by Shopify" "Pittsburgh"
+43. "powered by Shopify" "Cincinnati"
+44. "powered by Shopify" "Orlando"
+45. "powered by Shopify" "Riverside"
+46. "powered by Shopify" "Stockton"
+47. "powered by Shopify" "Lexington"
+48. "powered by Shopify" "Henderson"
+49. "powered by Shopify" "Omaha"
+50. "powered by Shopify" "Wichita"
+51. Shopify "California" store
+52. Shopify "Texas" store
+53. Shopify "Florida" store
+54. Shopify "New York" store
+55. Shopify "Pennsylvania" store
+56. Shopify "Illinois" store
+57. Shopify "Ohio" store
+58. Shopify "Georgia" store
+59. Shopify "North Carolina" store
+60. Shopify "Michigan" store
+61. Shopify "New Jersey" store
+62. Shopify "Virginia" store
+63. Shopify "Washington" store
+64. Shopify "Arizona" store
+65. Shopify "Massachusetts" store
+66. Shopify "Tennessee" store
+67. Shopify "Indiana" store
+68. Shopify "Missouri" store
+69. Shopify "Maryland" store
+70. Shopify "Wisconsin" store
+71. Shopify "Colorado" store
+72. Shopify "Minnesota" store
+73. Shopify "South Carolina" store
+74. Shopify "Alabama" store
+75. Shopify "Louisiana" store
+76. Shopify "Kentucky" store
+77. Shopify "Oregon" store
+78. Shopify "Oklahoma" store
+79. Shopify "Connecticut" store
+80. Shopify "Utah" store
+81. "grocery store" Shopify USA
+82. "bakery" powered by Shopify
+83. "coffee shop" Shopify
+84. "restaurant" Shopify ordering
+85. "farm stand" Shopify
+86. "organic food" Shopify
+87. "butcher shop" Shopify
+88. "wine shop" Shopify
+89. "brewery" Shopify
+90. "juice bar" Shopify
+91. "deli" Shopify USA
+92. "catering" Shopify
+93. "bookstore" powered by Shopify
+94. "clothing boutique" Shopify
+95. "shoe store" Shopify
+96. "furniture store" Shopify
+97. "home decor" Shopify
+98. "pet store" Shopify
+99. "toy store" Shopify
+100. "sporting goods" Shopify
+101. "electronics" Shopify
+102. "hardware store" Shopify
+103. "bike shop" Shopify
+104. "outdoor gear" Shopify
+105. "jewelry" Shopify
+106. "cosmetics" Shopify USA
+107. "salon products" Shopify
+108. "fashion brand" Shopify
+109. "accessories" Shopify
+110. "handbags" Shopify
+111. "florist" Shopify
+112. "gift shop" Shopify
+113. "art gallery" Shopify
+114. "craft store" Shopify
+115. "comic book" Shopify
+116. "vinyl records" Shopify
+117. "vintage" Shopify
+118. "antiques" Shopify
+119. "wellness" Shopify
+120. "CBD" Shopify
+121. site:myshopify.com
+122. "checkout.shopify.com" USA
+123. "cdn.shopify.com" store
+124. inurl:myshopify.com -site:help.shopify.com
+125. "Shopify.theme" store
+126. "monorail-edge.shopifysvc.com"
+127. site:*.myshopify.com -help -support
+128. "shopify-pay" USA
+129. "Shop Pay" merchant
+130. inurl:products site:myshopify.com
+131. "local delivery" Shopify USA
+132. "same day delivery" Shopify
+133. "curbside pickup" Shopify
+134. "next day delivery" Shopify
+135. "contactless delivery" Shopify
+136. "ship from store" Shopify
+137. "BOPIS" Shopify
+138. "buy online pickup in store" Shopify
+139. "local fulfillment" Shopify
+140. "neighborhood delivery" Shopify
+141. "free local delivery" Shopify
+142. "delivery radius" Shopify
+143. "we deliver" powered by Shopify
+144. "local shipping" Shopify
+145. "pickup available" Shopify
+146. "Shopify Plus" USA merchant
+147. "Shopify Plus" enterprise
+148. "headless commerce" Shopify
+149. "custom checkout" Shopify
+150. "Shopify Scripts" store
+151. "wholesale channel" Shopify
+152. "Shopify Flow" merchant
+153. "Launchpad" Shopify
+154. Shopify Plus "high volume"
+155. "multi-currency" Shopify Plus
+156. "grocery" Shopify "New York"
+157. "fashion" Shopify "Los Angeles"
+158. "restaurant" Shopify "Chicago"
+159. "coffee" Shopify "Seattle"
+160. "boutique" Shopify "Austin"
+161. "wine" Shopify "San Francisco"
+162. "brewery" Shopify "Portland"
+163. "bookstore" Shopify "Boston"
+164. "jewelry" Shopify "Miami"
+165. "art" Shopify "Denver"
+166. "furniture" Shopify "Atlanta"
+167. "pet store" Shopify "Nashville"
+168. "outdoor" Shopify "Denver"
+169. "wellness" Shopify "Los Angeles"
+170. "vintage" Shopify "Portland"

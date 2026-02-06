@@ -1,0 +1,49 @@
+QUERY BATCHES - RUN IN ORDER FOR BEST RESULTS
+================================================================================
+
+BATCH 1: TOP 20 CITIES (Highest ROI)
+--------------------------------------------------------------------------------
+1. "powered by Shopify" "New York"
+2. "powered by Shopify" "Los Angeles"
+3. "powered by Shopify" "Chicago"
+4. "powered by Shopify" "San Francisco"
+5. "powered by Shopify" "Austin"
+6. "powered by Shopify" "Seattle"
+7. "powered by Shopify" "Boston"
+8. "powered by Shopify" "Portland"
+9. "powered by Shopify" "Miami"
+10. "powered by Shopify" "Denver"
+11. "powered by Shopify" "Atlanta"
+12. "powered by Shopify" "Nashville"
+13. "powered by Shopify" "Houston"
+14. "powered by Shopify" "Dallas"
+15. "powered by Shopify" "Phoenix"
+16. "powered by Shopify" "Philadelphia"
+17. "powered by Shopify" "San Diego"
+18. "powered by Shopify" "Tampa"
+19. "powered by Shopify" "Orlando"
+20. "powered by Shopify" "Las Vegas"
+
+BATCH 2: TECHNICAL PATTERNS (Find .myshopify.com)
+--------------------------------------------------------------------------------
+1. site:myshopify.com
+2. "checkout.shopify.com" USA
+3. inurl:myshopify.com -help
+4. "Shop Pay" USA
+5. "cdn.shopify.com" store
+
+BATCH 3: LOCAL DELIVERY (High Intent)
+--------------------------------------------------------------------------------
+1. "local delivery" Shopify
+2. "same day delivery" Shopify
+3. "curbside pickup" Shopify
+4. "BOPIS" Shopify
+5. "neighborhood delivery" Shopify
+
+BATCH 4: SHOPIFY PLUS (Premium Merchants)
+--------------------------------------------------------------------------------
+1. "Shopify Plus" USA
+2. "headless commerce" Shopify
+3. "custom checkout" Shopify
+4. "wholesale channel" Shopify
+5. Shopify Plus enterprise

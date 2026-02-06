@@ -1,0 +1,59 @@
+# Shopify Subdomain Enumeration Results
+# Generated: 2026-02-05
+# 
+# Methodology:
+# 1. Certificate Transparency logs queried for *.shopify.com
+# 2. Common subdomain patterns tested (regional, CDN, service-specific)
+# 3. All discovered subdomains resolved to IP addresses
+# 4. Known ranges filtered out (23.227.38.x, 23.227.39.x, 185.146.173.x)
+#
+# SUMMARY:
+# - Total subdomains discovered: 351
+# - Total unique IPs found: 10
+# - New IPs (excluding known ranges): 6
+# - New IP ranges identified: 6
+#
+# ======================================
+# NEW IP ADDRESSES FOR REVERSE DNS LOOKUP
+# ======================================
+
+# 10.90.0.0/24 range
+# Internal/Toronto infrastructure
+10.90.0.11
+
+# 10.90.56.0/24 range  
+# Internal management/Toronto infrastructure
+10.90.56.1
+
+# 104.18.35.0/24 range
+# Cloudflare CDN - community.shopify.com
+104.18.35.154
+
+# 172.64.145.0/24 range
+# Cloudflare CDN - www.shopify.com
+172.64.145.93
+
+# 34.148.253.0/24 range
+# Google Cloud Platform - vault.shopify.com, unicorn.shopify.com
+34.148.253.105
+
+# 44.196.20.0/24 range
+# AWS (Amazon) - sl.shopify.com
+44.196.20.225
+
+# ======================================
+# NOTES
+# ======================================
+# - 10.90.x.x IPs are private/internal (RFC1918) - may not be useful for external reverse DNS
+# - 104.18.x.x and 172.64.x.x are Cloudflare IPs (likely proxied, not store infrastructure)
+# - 34.148.x.x is GCP (Google Cloud Platform)
+# - 44.196.x.x is AWS (Amazon Web Services)
+# 
+# RECOMMENDATION:
+# Focus reverse DNS efforts on:
+# - 34.148.253.105 (GCP - may host stores)
+# - 44.196.20.225 (AWS - may host stores)
+# 
+# Skip:
+# - 10.90.x.x (internal/private IPs)
+# - 104.18.x.x and 172.64.x.x (Cloudflare CDN, not store hosting)
