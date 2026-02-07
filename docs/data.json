@@ -1,0 +1,753 @@
+{
+  "stats": {
+    "total_stores": 10068,
+    "plus_stores": 7542,
+    "usa_stores": 1146,
+    "usa_plus_stores": 1139,
+    "last_updated": "2026-02-07"
+  },
+  "recent_stores": [
+    {
+      "domain": "35north.eu",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120648"
+    },
+    {
+      "domain": "35mmvintage.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120632"
+    },
+    {
+      "domain": "35mmco.us",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120617"
+    },
+    {
+      "domain": "35mmco.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120600"
+    },
+    {
+      "domain": "35fdd5-4.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120584"
+    },
+    {
+      "domain": "35cb2c-08.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120569"
+    },
+    {
+      "domain": "35andthrive.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120552"
+    },
+    {
+      "domain": "35aa96-5e.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120535"
+    },
+    {
+      "domain": "358work.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120520"
+    },
+    {
+      "domain": "358daiwa.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120505"
+    },
+    {
+      "domain": "356hillwood.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120490"
+    },
+    {
+      "domain": "3547e4-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120475"
+    },
+    {
+      "domain": "353customtackle.shop",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120460"
+    },
+    {
+      "domain": "35356b-e1.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120445"
+    },
+    {
+      "domain": "35319f-20.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120429"
+    },
+    {
+      "domain": "352tees.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120414"
+    },
+    {
+      "domain": "351bd7-4.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120399"
+    },
+    {
+      "domain": "351automotivesolutions.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120384"
+    },
+    {
+      "domain": "350degreekbbq.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120369"
+    },
+    {
+      "domain": "350cycle.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120353"
+    },
+    {
+      "domain": "34vintage.de",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120337"
+    },
+    {
+      "domain": "34thirtyfour.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120321"
+    },
+    {
+      "domain": "34thdegreewine.com",
+      "name": "Unknown",
+      "country": "US",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120305"
+    },
+    {
+      "domain": "34ten.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120289"
+    },
+    {
+      "domain": "34stjohn.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120273"
+    },
+    {
+      "domain": "34litary.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120257"
+    },
+    {
+      "domain": "34heritage.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120241"
+    },
+    {
+      "domain": "34e75e-19.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120225"
+    },
+    {
+      "domain": "34e10c-ad.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120210"
+    },
+    {
+      "domain": "34b368-6c.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120194"
+    },
+    {
+      "domain": "348407-4.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120178"
+    },
+    {
+      "domain": "347wfp-5m.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120163"
+    },
+    {
+      "domain": "3478cd-3.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120145"
+    },
+    {
+      "domain": "34756b-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120129"
+    },
+    {
+      "domain": "346ann-store.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120114"
+    },
+    {
+      "domain": "345hunde-shop.de",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120098"
+    },
+    {
+      "domain": "345a8d-2f.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120083"
+    },
+    {
+      "domain": "344414-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120067"
+    },
+    {
+      "domain": "3433ed-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120052"
+    },
+    {
+      "domain": "343-graphix.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120036"
+    },
+    {
+      "domain": "3428d8.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.120019"
+    },
+    {
+      "domain": "3427f9.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.120001"
+    },
+    {
+      "domain": "3419a7-a4.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.119975"
+    },
+    {
+      "domain": "34-degrees.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.119925"
+    },
+    {
+      "domain": "33ruemajorelle.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.119909"
+    },
+    {
+      "domain": "33rpm.ie",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.119886"
+    },
+    {
+      "domain": "33petals.co",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.119868"
+    },
+    {
+      "domain": "33layers.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.119853"
+    },
+    {
+      "domain": "33jewelry.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.119838"
+    },
+    {
+      "domain": "33itrend.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.119819"
+    },
+    {
+      "domain": "33hundred.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118867"
+    },
+    {
+      "domain": "33gloveco.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118852"
+    },
+    {
+      "domain": "33fingerboards.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118836"
+    },
+    {
+      "domain": "33ff71.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118821"
+    },
+    {
+      "domain": "33edge.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118805"
+    },
+    {
+      "domain": "33dates.de",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118787"
+    },
+    {
+      "domain": "33byhand.com",
+      "name": "Unknown",
+      "country": "US",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118771"
+    },
+    {
+      "domain": "33blvd.xyz",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118756"
+    },
+    {
+      "domain": "33b92f-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118742"
+    },
+    {
+      "domain": "33aya.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118727"
+    },
+    {
+      "domain": "33animewear.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118712"
+    },
+    {
+      "domain": "33a287-0c.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118696"
+    },
+    {
+      "domain": "339852.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118680"
+    },
+    {
+      "domain": "3392f0-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118665"
+    },
+    {
+      "domain": "3388clothing.co.uk",
+      "name": "Unknown",
+      "country": "United Kingdom",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118648"
+    },
+    {
+      "domain": "336polishing.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118633"
+    },
+    {
+      "domain": "336lacrosse.hobolax.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118618"
+    },
+    {
+      "domain": "336251-e9.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118603"
+    },
+    {
+      "domain": "335273-20.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118588"
+    },
+    {
+      "domain": "334efb-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118573"
+    },
+    {
+      "domain": "334boutique.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118558"
+    },
+    {
+      "domain": "3345.nl",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118543"
+    },
+    {
+      "domain": "33429a-01.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118527"
+    },
+    {
+      "domain": "333wines.net",
+      "name": "Unknown",
+      "country": "US",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118510"
+    },
+    {
+      "domain": "333swim.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118495"
+    },
+    {
+      "domain": "333shop.it",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118480"
+    },
+    {
+      "domain": "333reborn.pl",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118464"
+    },
+    {
+      "domain": "333jewel.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118449"
+    },
+    {
+      "domain": "333hillside.shop",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118433"
+    },
+    {
+      "domain": "333fabrications.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118418"
+    },
+    {
+      "domain": "333ck.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118403"
+    },
+    {
+      "domain": "333beverlyhills.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118388"
+    },
+    {
+      "domain": "333andcojewelry.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118372"
+    },
+    {
+      "domain": "3339d9-3.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118357"
+    },
+    {
+      "domain": "331c84-2.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118342"
+    },
+    {
+      "domain": "3310mrkt.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118327"
+    },
+    {
+      "domain": "330f25.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118312"
+    },
+    {
+      "domain": "330boutique.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118297"
+    },
+    {
+      "domain": "3307aa.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": false,
+      "discovered_at": "2026-02-07 22:49:58.118282"
+    },
+    {
+      "domain": "33000ft.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118266"
+    },
+    {
+      "domain": "33-weine.de",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118246"
+    },
+    {
+      "domain": "33-stickers.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118227"
+    },
+    {
+      "domain": "33-off.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118207"
+    },
+    {
+      "domain": "33-off.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118191"
+    },
+    {
+      "domain": "32viadeibirrai.it",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118174"
+    },
+    {
+      "domain": "32times.myshopify.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118157"
+    },
+    {
+      "domain": "32theguild.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118142"
+    },
+    {
+      "domain": "32stripe.com",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118127"
+    },
+    {
+      "domain": "32stitches.store",
+      "name": "Unknown",
+      "country": "Unknown",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118112"
+    },
+    {
+      "domain": "32lavender.com",
+      "name": "Unknown",
+      "country": "US",
+      "is_plus": true,
+      "discovered_at": "2026-02-07 22:49:58.118097"
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "US",
+      "count": 993
+    },
+    {
+      "country": "USA",
+      "count": 76
+    },
+    {
+      "country": "United States",
+      "count": 74
+    },
+    {
+      "country": "CA",
+      "count": 8
+    },
+    {
+      "country": "GB",
+      "count": 7
+    },
+    {
+      "country": "IN",
+      "count": 7
+    },
+    {
+      "country": "AU",
+      "count": 6
+    },
+    {
+      "country": "Canada",
+      "count": 4
+    },
+    {
+      "country": "NEDERLAND",
+      "count": 4
+    },
+    {
+      "country": "AUSTRALIA",
+      "count": 3
+    }
+  ]
+}
