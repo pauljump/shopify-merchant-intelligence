@@ -7,6 +7,12 @@ Run this script when you want to update the public GitHub Pages dashboard.
 import sqlite3
 import json
 from datetime import datetime
+import sys
+import os
+
+# Add src directory to path
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+from utils.country_normalizer import normalize_country, get_country_name
 
 def export_dashboard_data():
     """Export database to JSON for static GitHub Pages site."""
@@ -41,18 +47,27 @@ def export_dashboard_data():
     """)
     stores = cursor.fetchall()
 
-    # Get top countries
+    # Get all countries and normalize
     cursor.execute("""
     SELECT country, COUNT(*) as count
     FROM shopify_stores
     WHERE country IS NOT NULL AND country != 'Unknown'
     GROUP BY country
-    ORDER BY count DESC
-    LIMIT 10
     """)
-    countries = cursor.fetchall()
+    raw_countries = cursor.fetchall()
 
     conn.close()
+
+    # Normalize and consolidate countries
+    country_counts = {}
+    for country, count in raw_countries:
+        normalized = normalize_country(country)
+        if normalized:
+            country_name = get_country_name(normalized)
+            country_counts[country_name] = country_counts.get(country_name, 0) + count
+
+    # Sort and get top 10
+    countries = sorted(country_counts.items(), key=lambda x: x[1], reverse=True)[:10]
 
     # Create data structure
     data = {

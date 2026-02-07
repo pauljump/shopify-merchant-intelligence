@@ -710,44 +710,44 @@
   ],
   "top_countries": [
     {
-      "country": "US",
-      "count": 993
-    },
-    {
-      "country": "USA",
-      "count": 76
-    },
-    {
       "country": "United States",
-      "count": 74
-    },
-    {
-      "country": "CA",
-      "count": 8
-    },
-    {
-      "country": "GB",
-      "count": 7
-    },
-    {
-      "country": "IN",
-      "count": 7
-    },
-    {
-      "country": "AU",
-      "count": 6
+      "count": 1146
     },
     {
       "country": "Canada",
+      "count": 12
+    },
+    {
+      "country": "United Kingdom",
+      "count": 12
+    },
+    {
+      "country": "Australia",
+      "count": 11
+    },
+    {
+      "country": "India",
+      "count": 8
+    },
+    {
+      "country": "Netherlands",
+      "count": 7
+    },
+    {
+      "country": "Germany",
       "count": 4
     },
     {
-      "country": "NEDERLAND",
+      "country": "France",
       "count": 4
     },
     {
-      "country": "AUSTRALIA",
+      "country": "Spain",
       "count": 3
+    },
+    {
+      "country": "HK",
+      "count": 2
     }
   ]
 }
