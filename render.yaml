@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: shopify-discovery-dashboard
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn web_dashboard_public:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DATABASE_PATH
+        value: shopify_leads_snapshot.db
